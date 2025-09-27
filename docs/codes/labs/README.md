@@ -5,3 +5,4 @@
 * [Laboratorio 03](Lab_03.ipynb): Desarrollo del laboratorio 3.
 * [Laboratorio 04](Lab_04.ipynb): Desarrollo del laboratorio 4.
 * [Laboratorio 05](Lab_05.ipynb): Desarrollo del laboratorio 5.
+* [Laboratorio 06](Lab_06.ipynb): Desarrollo del laboratorio 6.
