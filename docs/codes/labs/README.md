@@ -8,3 +8,4 @@
 * [Laboratorio 06](Lab_06.ipynb): Desarrollo del laboratorio 6.
 * [Laboratorio 07](Lab_07.ipynb): Desarrollo del laboratorio 7.
 * [Laboratorio 08](Lab_08.ipynb): Desarrollo del laboratorio 8.
+* [Laboratorio 09](Lab_09.ipynb): Desarrollo del laboratorio 9.
